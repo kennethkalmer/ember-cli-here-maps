@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-here-maps/services/here-platform';
