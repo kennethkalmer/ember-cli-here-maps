@@ -1,6 +1,9 @@
-# Ember-cli-here-maps
+# ember-cli-here-maps
 
-This README outlines the details of collaborating on this Ember addon.
+**WORK IN PROGRESS**
+
+This addon provides access to Nokia's [HERE](http://developer.here.com) Maps JavaScript SDK, as well as components for displaying maps.
+
 
 ## Installation
 
